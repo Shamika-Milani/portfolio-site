@@ -1,0 +1,1 @@
+console.logo("RAHAL GRAPHIC WEBSITE LOADES");
